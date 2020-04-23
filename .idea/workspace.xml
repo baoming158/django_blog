@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77844f61-72b8-444d-8ffc-63df5c6adc8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1asTZHNPrhpS1bDCPaSmjyqose1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/prism" />
+      <recent name="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.django_blog">
+    <configuration name="te" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="django_blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/article" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/article/te.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="django_blog" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="my_blog.settings" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="django_blog" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="django_blog.settings" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.django_blog" />
+      <item itemvalue="Python.te" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.te" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77844f61-72b8-444d-8ffc-63df5c6adc8d" name="Default Changelist" comment="" />
+      <created>1587523355263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587523355263</updated>
+      <workItem from="1587523357656" duration="43460000" />
+      <workItem from="1587659214850" duration="466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="172" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587659707555">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="172" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723@0.23.1280.723" timestamp="1587659707555" />
+    <state x="365" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587524234574">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="365" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.721@0.23.1280.721" timestamp="1587524234574" />
+    <state x="378" y="137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587656052542">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="378" y="137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.723@0.23.1280.723" timestamp="1587656052542" />
+    <state x="341" y="23" key="#django_blog" timestamp="1587658725557">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="341" y="23" key="#django_blog/0.23.1280.723@0.23.1280.723" timestamp="1587658725557" />
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom" timestamp="1587659688024">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1587625917740" />
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1587659688024" />
+    <state width="1238" height="179" key="GridCell.Tab.0.center" timestamp="1587659688022">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1587625917738" />
+    <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1587659688022" />
+    <state width="1238" height="179" key="GridCell.Tab.0.left" timestamp="1587659688021">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1587625917737" />
+    <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1587659688021" />
+    <state width="1238" height="179" key="GridCell.Tab.0.right" timestamp="1587659688023">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1587625917739" />
+    <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1587659688023" />
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom" timestamp="1587658974284">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1587625917581" />
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.723@0.23.1280.723" timestamp="1587658974284" />
+    <state width="1238" height="223" key="GridCell.Tab.1.center" timestamp="1587658974283">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1587625917579" />
+    <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.723@0.23.1280.723" timestamp="1587658974283" />
+    <state width="1238" height="223" key="GridCell.Tab.1.left" timestamp="1587658974283">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1587625917578" />
+    <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.723@0.23.1280.723" timestamp="1587658974283" />
+    <state width="1238" height="223" key="GridCell.Tab.1.right" timestamp="1587658974284">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1587625917580" />
+    <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1587658974284" />
+    <state x="115" y="23" width="982" height="721" key="SettingsEditor" timestamp="1587659345054">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="115" y="23" width="982" height="721" key="SettingsEditor/0.23.1280.721@0.23.1280.721" timestamp="1587526620847" />
+    <state x="115" y="23" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1587659345054" />
+    <state x="370" y="122" width="540" height="524" key="StructurePopup" timestamp="1587625645330">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="370" y="122" width="540" height="524" key="StructurePopup/0.23.1280.721@0.23.1280.721" timestamp="1587625645330" />
+    <state x="319" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1587659215088">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="319" y="217" key="com.intellij.ide.util.TipDialog/0.23.1280.723@0.23.1280.723" timestamp="1587659215088" />
+    <state x="232" y="113" width="816" height="542" key="find.popup" timestamp="1587658764751">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="232" y="113" width="816" height="540" key="find.popup/0.23.1280.721@0.23.1280.721" timestamp="1587622886754" />
+    <state x="232" y="113" width="816" height="542" key="find.popup/0.23.1280.723@0.23.1280.723" timestamp="1587658764751" />
+    <state x="305" y="68" width="670" height="678" key="search.everywhere.popup" timestamp="1587658620860">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="305" y="68" width="670" height="676" key="search.everywhere.popup/0.23.1280.721@0.23.1280.721" timestamp="1587537792512" />
+    <state x="305" y="68" width="670" height="678" key="search.everywhere.popup/0.23.1280.723@0.23.1280.723" timestamp="1587658620860" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/article/views.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/article/views.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/article/views.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/article/models.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/article/views.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/django_blog$te.coverage" NAME="te Coverage Results" MODIFIED="1587659501672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/article" />
+  </component>
+</project>
