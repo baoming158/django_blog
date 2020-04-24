@@ -1,3 +1,6 @@
 .iml
 .idea/*
 db.sqlite3
+/.idea/
+*/__pycache__
+.idea/workspace.xml
